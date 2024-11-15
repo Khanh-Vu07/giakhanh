@@ -8,6 +8,7 @@ export default function App() {
       <Text>third change</Text>
       <Text>second change</Text>
       <Text>second change</Text>
+      <Text>new branch</Text>
       <StatusBar style="auto" />
     </View>
   );
